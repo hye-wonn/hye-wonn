@@ -5,9 +5,6 @@
   
 </div>
 
-
-
-
 <div>
   
   <h2>About Me</h2>
@@ -28,7 +25,7 @@
 
 </br></br>
 
-<div align="center">
+<div>
   
   <h2>Tech Stacks</h2>
   
