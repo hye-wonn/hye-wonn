@@ -7,7 +7,7 @@
 
 <div align=center>
   
-  <h2>About Me</h2>
+  <h2>👀 About Me</h2>
   
   <h4>
     🏫 Student at Jeju Halla University.
@@ -27,7 +27,7 @@
 
 <div align=center>
   
-  <h2>Tech Stacks</h2>
+  <h2>⚙️ Tech Stacks</h2>
   
   <h4>⌨️ Languages</h4>
   <!--Python-->
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-  <h2>GitHub Overview</h2>
+  <h2>📊 GitHub Overview</h2>
 
   <a href="https://github.com/hye-wonn/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hye-wonn&layout=donut" />
