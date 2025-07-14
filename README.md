@@ -10,13 +10,13 @@
   <h2>👀 About Me</h2>
   
   <h4>
-    🏫 Student at Jeju Halla University.
+    🏫 Student at Jeju Halla University
   </br></br>
-    ✍🏻 Preparing for a university transfer.
+    ✍🏻 Preparing for a university transfer
   </br></br>
-    ✨ Focused on web and app development.
+    ✨ Focused on web and app development
   </br></br>
-    👩🏻‍💻 Hoping to develop a game in the future.
+    👩🏻‍💻 Hoping to develop a game in the future
   </br></br>
     💻 404: Experience Not Found (Yet)
   </h4>
