@@ -29,7 +29,7 @@
   
   <h2>Tech Stacks</h2>
   
-  <h4>⚙️ Languages</h4>
+  <h4>⌨️ Languages</h4>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <!--C-->
@@ -39,7 +39,7 @@
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
-  <h4>🛠️ Tools</h4>
+  <h4>🛠️ Tools & Platforms</h4>
   <!--Visual Studio Code-->
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
   <!--Notion-->
@@ -50,6 +50,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
   <!--Git-->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+
+  <h4>🔌 Hardware & Embedded</h4>
+  <!--Arduino-->
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white">
   
 </div>
 
