@@ -5,7 +5,7 @@
   
 </div>
 
-<div>
+<div align=center>
   
   <h2>About Me</h2>
   
@@ -25,7 +25,7 @@
 
 </br></br>
 
-<div>
+<div align=center>
   
   <h2>Tech Stacks</h2>
   
@@ -59,11 +59,11 @@
   <h2>GitHub Overview</h2>
 
   <a href="https://github.com/hye-wonn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hye-wonn&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hye-wonn&layout=donut" />
   </a>
   
   <a href="https://github.com/hye-wonn/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hye-wonn&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hye-wonn&show_icons=true&theme=dracula" />
   </a>
   
 </div>
