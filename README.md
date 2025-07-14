@@ -1,45 +1,62 @@
-<div>
+<div align=center>
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=14,15,18&height=350&text=Hi%20I'm%20HYE%20WON&fontAlignY=45&desc=🎓%20AI%20Major%20|%20😼%20Student%20|%20🔥%20Still%20Debugging%20Myself%20IRL)
   
 </div>
 
-<div>
-  <!--Body-->
-  
+<div align=center>
+
   ## 👀 About Me
   #### 🏫 Student at Jeju Halla University. 
   #### ✍🏻 Preparing for a university transfer.
   #### ✨ Focused on web and app development.
   #### 👩🏻‍💻 Hoping to develop a game in the future.
   #### 💻 404: Experience Not Found (Yet)
-  <br/>
-  <br/>
   
-  ## ⚙️ Tech Stack
+</div>
+
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-wonn&layout=donut-vertical)](https://github.com/hye-wonn/github-readme-stats)
+  
+</div>
+
+
+<div>
+  <h3>⚙️ Stacks</h3>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>   
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <br/>
-  <br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-wonn&layout=donut-vertical)](https://github.com/hye-wonn/github-readme-stats)
   
-  ## 🤔 Github Stats
-  ![Hye-Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-wonn&show_icons=true&theme=dracula)
-  
+  <h3>🛠️ Tools</h3>
+  <!--Visual Studio Code-->
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
+  <!--Notion-->
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+  <!--Figma-->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+  <!--GitHub-->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <!--Git-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 </div>
 
 <div>
+  
+  ![Hye-Won's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-wonn&show_icons=true&theme=dracula)
+
+</div>
+
+<div align="center">
 
   <!--Footer-->
-  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=14,15,18)
   
 </div>
 
