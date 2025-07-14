@@ -1,4 +1,9 @@
-## Hi there 👋
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hi,%20I'm%20[HYE%20WON]%20👋-nl-AI%20Major%20|%20Engineering%20Student)
+  
+</div>
 
 <!--
 **hye-wonn/hye-wonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
